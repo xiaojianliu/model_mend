@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 26 14:15:03 2015
 the function about how to get and compare the drifter and model data
-@author: qianran
+@author: qianran,xiaojian
 """
 import sys
 import datetime as dt
